@@ -1,0 +1,85 @@
+.space
+{
+    padding: 0 0 0 20px;
+}
+.logo
+{
+    border-radius: 50%;
+    height: 32px;
+    width: 32px
+}
+.bell
+{
+    width: 20px;
+    height: 20px;
+}
+.img
+{
+    height: 20px;
+    width: 20px;
+}
+#kk{
+    color:gray;
+}
+#kk:hover{
+    color: #000;
+}
+a.buttom
+{
+    text-decoration: none;
+    color: #000
+}
+.buttom:hover
+{
+    color: gray;
+    text-decoration: underline;
+}
+.buttom:visited
+{
+    text-decoration: none;
+}
+.buttom
+{
+    text-decoration: none;
+    color:#000;
+}
+.google
+{
+      height: 96;
+      width: 272px;
+      position: absolute;
+      top:  20%;
+      left: 35%;
+}
+.bar
+{
+    height: 34px;
+    width: 560px;
+    position: absolute;
+    top: 47%;
+    left: 33%;
+    font-size: 20px;
+    box-shadow: 2px 1px rgb(160, 157, 157);
+}
+.gsearch
+{
+    position: absolute;
+    top: 55%;
+    left: 40%;
+}
+.lucky
+{
+    position: absolute;
+    top: 55%;
+    left:48%;
+}
+.kh
+{
+    text-decoration: none;
+}
+p
+{
+        position: absolute;
+        top: 60%;
+        left: 43%
+}
